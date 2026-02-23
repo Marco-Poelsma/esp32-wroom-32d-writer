@@ -2,7 +2,7 @@ class Message:
     __email: str
     __content: str
 
-    def init(self, email: str, content: str):
+    def __init__(self, email: str, content: str):
         self.__email = email
         self.__content = content
 
