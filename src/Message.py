@@ -1,6 +1,6 @@
 class Message:
-    __email: str = None
-    __content: str = None
+    __email: str
+    __content: str
 
     def init(self, email: str, content: str):
         self.__email = email
