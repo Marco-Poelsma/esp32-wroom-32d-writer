@@ -10,3 +10,7 @@ ESP32-Wroom-32D-Writer/
     ├── Message.py
     └── send_message.py
 ```
+
+## Ús
+
+Per a fer servir aquest programa, edita les variables a `/src/main.py` per a que s'adjustin a les teves necessitats. Finalment, executa `main.py`.
